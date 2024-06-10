@@ -1,4 +1,4 @@
-Il Master in Data Analytics è un programma di eccellenza progettato per fornire agli studenti le conoscenze e le competenze necessarie per diventare esperti di Data Analytics anche partendo da zero.
+Il Master in Data Analytics è un programma di eccellenza progettato da ProfessionAI per fornire agli studenti le conoscenze e le competenze necessarie per diventare esperti di Data Analytics anche partendo da zero.
 
 Il programma è stato sviluppato da professionisti del settore e comprende corsi teorici e pratici che ti aiuteranno a diventare un Data Analyst. Uno dei vantaggi del Master in Data Analytics è la sua flessibilità.
 
