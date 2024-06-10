@@ -4,4 +4,7 @@ Il programma è stato sviluppato da professionisti del settore e comprende corsi
 
 Potrai seguire il programma a tuo ritmo ed inoltre, avrai l’opportunità di lavorare su progetti pratici e sperimentare con diverse tecniche e strumenti utilizzati nel mondo professionale.
 
+
+
+I primi 3 progetti sono in Excel, 4-5 riguardano la data visualization con PowerBI e Tableau, 6-9 ricoprono Python e 10-11 interessano SQL. 
 In totale sono 11 progetti, me ne mancano ancora 4 da completare.
