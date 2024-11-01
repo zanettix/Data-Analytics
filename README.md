@@ -7,7 +7,7 @@ I progetti sono così divisi:
 - 1-3 sono in Excel 
 - 4-5 riguardano la data viz con PowerBI e Tableau 
 - 6-9 ricoprono Python, ML e NLP 
-- 10-11 interessano SQL. 
+- 10-11 interessano SQL e Big Data(ho usato Databricks e sfruttato l'uso dei cluster). 
 
 Inoltre, ho aggiunto un progetto sempre di ML fatto all'università, al corso di statistica numerica.
 
